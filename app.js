@@ -310,12 +310,13 @@
 
           <div class="divider"></div>
 
+          <button class="btn-primary" id="btnShare">結果をシェアする</button>
+
           <div class="ad-slot">
             <span class="ad-slot-label">広告</span>
             <span class="ad-slot-size">バナー広告（モックアップ）</span>
           </div>
 
-          <button class="btn-primary" id="btnShare">結果をシェアする</button>
           <div class="btn-row">
             <button class="btn-ghost" id="btnRetry">もう一度診断する</button>
             <button class="btn-ghost" id="btnRosterFromResult">図鑑を見る</button>
